@@ -1,0 +1,26 @@
+{
+  "name": "webpack_tutorial",
+  "private": "true",
+  "mode": "development",
+  "version": "1.0.0",
+  "description": "Following freeCodeCamps Webpack Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babb2000/Webpack_Tutorial.git"
+  },
+  "keywords": [],
+  "author": "", 
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Babb2000/Webpack_Tutorial/issues"
+  },
+  "homepage": "https://github.com/Babb2000/Webpack_Tutorial#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
